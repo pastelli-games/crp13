@@ -163,7 +163,7 @@
 	icon_state = "longstripe_blue"
 
 /datum/category_item/underwear/undershirt/tiedye
-	name = "Tiedye Shirt"
+	name = "Tie-dye Shirt"
 	icon_state = "tiedye"
 
 /datum/category_item/underwear/undershirt/longstripe_pink
@@ -184,7 +184,7 @@
 	has_color = TRUE
 
 /datum/category_item/underwear/undershirt/shibari_sleeve
-	name = "Shibari Rope with sleeves"
+	name = "Shibari Rope with Sleeves"
 	icon_state = "shibari_sleeve"
 	has_color = TRUE
 
@@ -343,6 +343,7 @@
 /datum/category_item/underwear/undershirt/one_arm_f
 	name = "Off the Shoulder Shirt, Female"
 	icon_state = "one_arm_f"
+	has_color = TRUE
 
 /datum/category_item/underwear/undershirt/turtleneck
 	name = "Turtleneck (Sweater)"
@@ -362,7 +363,7 @@
 	icon_state = "leotard_turtleneck_sleeveless"
 
 /datum/category_item/underwear/undershirt/pinkblack_tshirt_f
-	name = "Pink and Black T-Shirt"
+	name = "Pink and Black T-Shirt, Female"
 	icon_state = "pinkblack_tshirt_f"
 
 /datum/category_item/underwear/undershirt/longstripe_pink_f_s
@@ -371,19 +372,21 @@
 
 /datum/category_item/underwear/undershirt/wing_shirt_f
 	name = "Pink Wing Shirt, Female"
-	icon_state = "wing_shirt_f"
+	icon_state = "wing_shirt_f_s"
 
 /datum/category_item/underwear/undershirt/tiedie_f
-	name = "Tie-dye Shirt"
-	icon_state = "tiedie_f"
+	name = "Tie-dye Shirt, Female"
+	icon_state = "tiedye_f"
 
 /datum/category_item/underwear/undershirt/shirt_long_m_s
-	name = "Button-Down Shirt, Unbuttoned Collar."
+	name = "Button-Down Shirt, Unbuttoned Collar"
 	icon_state = "shirt_long_m_s"
+	has_color = TRUE
 
 /datum/category_item/underwear/undershirt/shirt_long_f_s
 	name = "Button-Down Shirt, Buttoned Collar, Female"
 	icon_state = "shirt_long_f_s"
+	has_color = TRUE
 
 /datum/category_item/underwear/undershirt/longstripe_blue_f
 	name = "Longsleeve Striped Shirt, Blue, Female"
@@ -395,7 +398,7 @@
 
 /datum/category_item/underwear/undershirt/longjon_f
 	name = "Long John Shirt, Female"
-	icon_state = "ljont_f_s"
+	icon_state = "ljont_f"
 
 /datum/category_item/underwear/undershirt/tank_sun_f_s
 	name = "Tank Top, Sun, Female"
@@ -430,15 +433,15 @@
 	icon_state = "polo_f"
 
 /datum/category_item/underwear/undershirt/blueshirtsport_f_s
-	name = "Sport Shirt, Blue"
+	name = "Sport Shirt, Blue, Female"
 	icon_state = "blueshirtsport_f_s"
 
 /datum/category_item/underwear/undershirt/redshirtsport_f_s
-	name = "Sport Shirt, Red"
+	name = "Sport Shirt, Red, Female"
 	icon_state = "redshirtsport_f_s"
 
 /datum/category_item/underwear/undershirt/greenshirtsport_f_s
-	name = "Sport Shirt, Green"
+	name = "Sport Shirt, Green, Female"
 	icon_state = "greenshirtsport_f_s"
 
 /datum/category_item/underwear/undershirt/shirt_nano_f_s
@@ -446,7 +449,7 @@
 	icon_state = "shirt_nano_f_s"
 
 /datum/category_item/underwear/undershirt/shirt_stripes_f_s
-	name = "Shirt, Blue Stripes"
+	name = "Shirt, Blue Stripes, Female"
 	icon_state = "shirt_stripes_f_s"
 
 /datum/category_item/underwear/undershirt/redpolo_s
@@ -466,28 +469,28 @@
 	icon_state = "bluepolo_f_s"
 
 /datum/category_item/underwear/undershirt/fishnet_base
-	name = "Fishnet top"
+	name = "Fishnet Top"
 	icon_state = "fishnet_body"
 
 /datum/category_item/underwear/undershirt/fishnet_sleeves
-	name = "Fishnet with sleeves"
+	name = "Fishnet with Sleeves"
 	icon_state = "fishnet_sleeves"
 
 /datum/category_item/underwear/undershirt/fishnet_gloves
-	name = "Fishnet with gloves"
+	name = "Fishnet with Gloves"
 	icon_state = "fishnet_gloves"
 
 /datum/category_item/underwear/undershirt/cfishnet
-	name = "Dyed Fishnet top"
+	name = "Dyed Fishnet Top"
 	icon_state = "c_fishnet_body"
 	has_color = TRUE
 
 /datum/category_item/underwear/undershirt/cfishnet_sleeve
-	name = "Dyed Fishnet with sleeves"
+	name = "Dyed Fishnet with Sleeves"
 	icon_state = "c_fishnet_sleeves"
 	has_color = TRUE
 
 /datum/category_item/underwear/undershirt/cfishnet_glove
-	name = "Dyed Fishnet with gloves"
+	name = "Dyed Fishnet with Gloves"
 	icon_state = "c_fishnet_gloves"
 	has_color = TRUE

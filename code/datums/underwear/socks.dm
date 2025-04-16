@@ -250,7 +250,7 @@
 
 /datum/category_item/underwear/socks/stockings_yellow_stirrup
 	name = "Yellow Stockings, Stirrup"
-	icon_state = "stockings_ywllow_stirrup"
+	icon_state = "stockings_yellow_stirrup"
 	has_color = TRUE
 
 /datum/category_item/underwear/socks/stockings_blue_stirrup
