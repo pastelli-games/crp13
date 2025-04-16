@@ -229,3 +229,6 @@ libprof.so
 
 # Screenshot tests
 /artifacts
+
+# Local Fork things. Shouldn't go upstream.
+citadel.dme
